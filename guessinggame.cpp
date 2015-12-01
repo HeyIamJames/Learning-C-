@@ -11,5 +11,4 @@ int main()
     do
     {
   number=rand()%100+1;;    
-      
     }
